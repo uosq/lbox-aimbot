@@ -296,10 +296,10 @@ local function CreateMove_WeaponManager(usercmd)
    end
 end
 
-local calls = {
-   CM_validtargets = CreateMove_ValidTargets,
-   CM_weaponmanager = CreateMove_WeaponManager,
-}
+--local calls = {
+--CM_validtargets = CreateMove_ValidTargets,
+--CM_weaponmanager = CreateMove_WeaponManager,
+--}
 
 --return calls
 -------------------------------------
